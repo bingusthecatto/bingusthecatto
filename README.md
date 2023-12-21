@@ -1,16 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    Hi! I'm Bingus, an art student who mods games in all her free time possible 😸</a>
+    <br>My main project currently is <a href="https://github.com/Oghma-Infinium/Ascensio">Ascensio</a>, a Skyrim Special Edition modlist that was made with <a href="https://www.wabbajack.org/#/">Wabbajack</a>!
+    </samp>
+</p>
 
-<!--
-**bingusthecatto/bingusthecatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+    <img src="https://gifs4crds.carrd.co/assets/images/gallery04/1a92a735.gif?vca07fc73a" width="28px">
+  </samp>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>
+    You can find me on other sites like:
+    <br>NexusMods @ <a href="https://www.nexusmods.com/users/40930935">bingusthecatto</a>
+    <br>Ko-Fi @ <a href="https://ko-fi.com/bingusthecatto">bingusthecatto</a>    
+    <br>Discord @ bingusthecat
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <img src="https://gifs4crds.carrd.co/assets/images/gallery08/3af19898.gif" width="70px">
+  </samp>
+</p>
