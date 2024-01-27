@@ -7,12 +7,6 @@
 
 <p align="center">
   <samp>
-    <img src="https://gifs4crds.carrd.co/assets/images/gallery04/1a92a735.gif?vca07fc73a" width="28px">
-  </samp>
-</p>
-
-<p align="center">
-  <samp>
     You can find me on other sites like:
     <br>NexusMods @ <a href="https://www.nexusmods.com/users/40930935">bingusthecatto</a>
     <br>Ko-Fi @ <a href="https://ko-fi.com/bingusthecatto">bingusthecatto</a>    
